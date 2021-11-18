@@ -36,5 +36,5 @@ Genetic algorithms (GAs) are a part of evolutionary computing, a rapidly growing
   1) Implementation Of fuzzy Set Problem --> Tipping Problem Using Mamdani Fuzzy Inference Systems.
   2) Implementing the Perceptron Algorithm in Python.
   3) Implementing MLPClassifier With Python on Titanic dataset to predict Survival chances on the Titanic ship based on other dependent variable.
-  
+  4) Implementation of CNN model using MNIST Database. 
   
